@@ -1,0 +1,7 @@
+#
+# PageTS for typo3sitepack
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3sitepack/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3sitepack/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3sitepack/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3sitepack/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
